@@ -1,0 +1,9 @@
+ul li.a {
+    background:"blue";
+    float: "left";
+    border: "2px solid red";
+    margin: "32px";
+    display: "inline-block";
+    padding: "20px";
+    float: "left";
+    }
